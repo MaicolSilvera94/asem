@@ -142,8 +142,32 @@
 				</div>
 			</div>
 		</section>
+		<!-- INICIO DE SECTION PRESENTACION -->
+		<section class="container section-clientes">
+			<div id="slidesmarcas" class="owl-carousel owl-theme">
+				<div class="item box-clientes">
+					<img src="images/marcas/1.1.png">
+				</div>
+				<div class="item box-clientes">
+				  	<img src="images/marcas/2.1.jpg">
+				</div>
+				<div class="item box-clientes">
+				  	<img src="images/marcas/3.1.jpg">
+				</div>
+				<div class="item box-clientes">
+				  	<img src="images/marcas/5.1.png">
+				</div>
+				<div class="item box-clientes">
+				  	<img src="images/marcas/4.1.png">
+				</div>
+				<div class="item box-clientes">
+				  	<img src="images/marcas/6.1.jpg">
+				</div>
+			</div>
+		</section>
 
 	</main>
 	<?php include 'includes/script.php'; ?>
+	<?php include 'includes/scriptmarcas.php'; ?>
 </body>
 </html>
