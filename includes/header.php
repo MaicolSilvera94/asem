@@ -9,7 +9,7 @@
 				        <span class="icon-bar"></span>
 	      				<a class="navbar-brand" href="#">
 	      					<h4>ASEM INFORMATICA</h4>
-						</a>
+								</a>
 			      		<a class="navbar-brand" href="#">
 			      			<img src="images/logoasem.jpg" width="60px">
 			      		</a>
@@ -28,7 +28,7 @@
 	      				<img src="images/mailicon.ico" width="40px">
 	      			</a>
 			    </ul>
-			    
+
 		  	</div>
 		</nav>
 </header>

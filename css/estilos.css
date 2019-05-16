@@ -283,10 +283,10 @@ margin:auto;
 
 /*Inicio Contactos*/
 .contacto .form-control{
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	border-radius: 5px;
 	border-color: #cccccc;
-	height: 50px;
+	height: 40px;
 }
 .h-textarea{
 	height: 120px !important;
@@ -345,5 +345,5 @@ margin:auto;
     margin-top: 115px;
 	}
 	.container-slimarcas{
-		width: 5%;	
+		width: 5%;
 }

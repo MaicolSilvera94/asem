@@ -167,6 +167,7 @@
 		</section>
 
 	</main>
+	<?php include 'includes/footer.php'; ?>
 	<?php include 'includes/script.php'; ?>
 	<?php include 'includes/scriptmarcas.php'; ?>
 </body>
