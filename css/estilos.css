@@ -101,6 +101,10 @@ footer h2 {
 	font-size: 24px;
 }
 
+.ico-redes-footer {
+	margin-bottom: 70px;
+}
+
 /* ESTILO OWL */
 .owl-theme .owl-nav .owl-prev {
     position: absolute;
@@ -293,6 +297,7 @@ margin:auto;
 }
 .btn-primary{
 	border-radius: 20px;
+	margin-bottom: 10px;
 }
 /*Fin Contactos*/
 

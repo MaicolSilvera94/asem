@@ -6,18 +6,33 @@
             <img src="images/loogasem3.png" width="40px">
           </a>
             <h2>ASEM INFORMATICA</h2>
+						<p ALIGN="justify">
+							Somos una empresa dedicada a la comercialización y distribución de productos informáticos,
+							fabricación de ordenadores, desarrollo de de paginas web, servicio técnico y mantenimiento de equipos y sistemas informáticos.
+							Ofreciendo una solución global a empresas, profesionales, administraciones y usuarios particulares.
+						</p>
+
+							<hr />
+							<div class="ico-redes-footer">
+					      	<a class="navbar-brand" href="https://www.facebook.com/">
+			      				<img src="images/facebookicon.ico" width="40px">
+			      			</a>
+			      			<a class="navbar-brand" href="#">
+			      				<img src="images/Instagramicon.ico" width="40px">
+			      			</a>
+			      			<a class="navbar-brand" href="#">
+			      				<img src="images/whatsappicon.ico" width="40px">
+			      			</a>
+			      			<a class="navbar-brand" href="#">
+			      				<img src="images/mailicon.ico" width="40px">
+			      			</a>
+							</div>
 				</div>
 
 
 				<div class="col-sm-2">
-					<h2>Links</h2>
-					<ul>
-						<li><a href="">Link</a></li>
-						<li><a href="">Link</a></li>
-						<li><a href="">Link</a></li>
-						<li><a href="">Link</a></li>
-						<li><a href="">Link</a></li>
-					</ul>
+
+
 				</div>
 
         <div class="col-sm-6">
